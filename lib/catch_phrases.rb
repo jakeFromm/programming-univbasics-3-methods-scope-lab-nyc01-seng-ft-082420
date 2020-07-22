@@ -14,6 +14,8 @@ def link
   puts link_says
 end
 
-def all_phrases(character)
-  character
+def all_phrases
+  mario
+  toadstool
+  link 
 end 
